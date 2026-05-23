@@ -1,4 +1,4 @@
-## 📰 Fake News Detection using Natural Language Processing (NLP)
+##  Fake News Detection using Natural Language Processing (NLP)
 Fake News Detection using Natural Language Processing and Machine Learning to classify news as real or fake.
 
 This project is a Fake News Detection System built using Natural Language Processing (NLP) and Machine Learning. It classifies news articles as real or fake based on text content analysis.
@@ -19,7 +19,7 @@ The main objective of this project is to:
 
 
 ## Technologies Used
-Python 🐍
+Python 
 
 Pandas
 
@@ -79,9 +79,12 @@ fake-news-detection-nlp/
 ├── requirements.txt
 └── README.md
 
-## 📈 Results
+##  Results
 
 The model successfully classifies news articles with good accuracy using NLP-based feature extraction.
+
+<img width="1025" height="860" alt="image" src="https://github.com/user-attachments/assets/b691ef0d-b74e-4e5f-84ef-580e2dcc8201" />
+
 
 ## Future Improvements
 
@@ -90,9 +93,6 @@ Deploy using Streamlit / Flask web app
 Improve accuracy with deep learning (LSTM, BERT)
 
 Real-time news API integration
-
-<img width="1025" height="860" alt="image" src="https://github.com/user-attachments/assets/b691ef0d-b74e-4e5f-84ef-580e2dcc8201" />
-
 
 
 ## Conclusion
