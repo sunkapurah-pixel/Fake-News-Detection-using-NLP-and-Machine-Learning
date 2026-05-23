@@ -56,7 +56,7 @@ Output: Real / Fake classification
 ## How to Run the Project
 1. Clone the repository
 
-git clone https://github.com/your-username/fake-news-detection-nlp.git
+git clone https://github.com/Hanumakshi/fake-news-detection-nlp.git
 
 2. Install dependencies
    
