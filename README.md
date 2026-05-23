@@ -72,11 +72,15 @@ Fake_News_Detection.ipynb
 ## Project Structure
 
 fake-news-detection-nlp/
-│
+
 ├── Fake_News_Detection.ipynb
+
 ├── dataset.csv
+
 ├── model.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 ##  Results
