@@ -89,6 +89,9 @@ The model successfully classifies news articles with good accuracy using NLP-bas
 
 <img width="1025" height="860" alt="image" src="https://github.com/user-attachments/assets/b691ef0d-b74e-4e5f-84ef-580e2dcc8201" />
 
+<img width="1593" height="860" alt="image" src="https://github.com/user-attachments/assets/aabe4266-aa4a-42c8-b61f-52a261d3f4b0" />
+
+
 
 ## Future Improvements
 
